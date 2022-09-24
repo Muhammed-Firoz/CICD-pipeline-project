@@ -49,3 +49,20 @@ Port: 443
 <TODO: Add link Screencast on YouTube>
 
 
+## Screenshots
+
+
+![2022-09-25 (2)](https://user-images.githubusercontent.com/108992155/192120282-5246a7a0-37f4-4308-9627-3d8dde4b06be.png)
+###Deploying webapp using azure pipeline into azure app service
+
+![2022-09-25 (1)](https://user-images.githubusercontent.com/108992155/192120328-69260032-849c-41a9-ac45-f3de344ff29f.png)
+###Azure app service
+
+![2022-09-25 (3)](https://user-images.githubusercontent.com/108992155/192120485-0c8d48ce-f4b0-45fe-8aec-8dbcfa288568.png)
+###Successful prediction by webapp
+
+![2022-09-25 (4)](https://user-images.githubusercontent.com/108992155/192120545-fd6195eb-b9c7-45fc-98cb-bcbcfd26dcf1.png)
+###successful run in pipeline
+
+
+
