@@ -5,8 +5,8 @@
 ## Project Plan
 <TODO: Project Plan
 
-* link to Trello board https://trello.com/invite/b/6E5p4ZVN/8f8b2599781f03ae2146c9c5ee55a52f/project6
-* A link to a spreadsheet that includes the original and final project plan>
+*Link to Trello board https://trello.com/invite/b/6E5p4ZVN/8f8b2599781f03ae2146c9c5ee55a52f/project6
+*Link to spreadsheet project plan  https://docs.google.com/spreadsheets/d/1-eWv2khCIhTI6tuPomEeAxwZsJ4DZlzss0qTuMlwClc/edit?usp=sharing
 
 ## Instructions
 
