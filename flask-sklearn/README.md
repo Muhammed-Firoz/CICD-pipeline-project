@@ -1,6 +1,6 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+This project is to deploy a flask based ML webapp in the azure webapp serviceand toconduct load test on it using locust. The webapp deployment is automated using azure pipeline.
 
 ## Project Plan
 Project Plan
@@ -19,6 +19,11 @@ Project Plan
 
 * Project running on Azure App Service
 
+
+
+###Azure app service
+![2022-09-25 (1)](https://user-images.githubusercontent.com/108992155/192120328-69260032-849c-41a9-ac45-f3de344ff29f.png)
+
 * Project cloned into Azure Cloud Shell
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
@@ -26,6 +31,8 @@ Project Plan
 * Output of a test run
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+###Deploying webapp using azure pipeline into azure app service
+![2022-09-25 (2)](https://user-images.githubusercontent.com/108992155/192120282-5246a7a0-37f4-4308-9627-3d8dde4b06be.png)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
@@ -37,11 +44,18 @@ udacity@Azure:~$ ./make_predict_azure_app.sh
 Port: 443
 {"prediction":[20.35373177134412]}
 ```
+###Successful prediction by webapp
+![2022-09-25 (3)](https://user-images.githubusercontent.com/108992155/192120485-0c8d48ce-f4b0-45fe-8aec-8dbcfa288568.png)
+
 
 * Output of streamed log files from deployed application
 
-> 
 
+###Conducting load test on the deployed app
+![locust run ss](https://user-images.githubusercontent.com/108992155/192152707-0b8d8392-9385-4efb-bb6a-573fe45c2504.JPG)
+![locust run ss2](https://user-images.githubusercontent.com/108992155/192152713-6ecc16b3-ced0-4a39-a31d-bdf110b159ac.JPG)
+
+> 
 ## Enhancements
 
 <TODO: A short description of how to improve the project in the future>
@@ -54,17 +68,12 @@ Port: 443
 ## Screenshots
 
 
-![2022-09-25 (2)](https://user-images.githubusercontent.com/108992155/192120282-5246a7a0-37f4-4308-9627-3d8dde4b06be.png)
-###Deploying webapp using azure pipeline into azure app service
 
-![2022-09-25 (1)](https://user-images.githubusercontent.com/108992155/192120328-69260032-849c-41a9-ac45-f3de344ff29f.png)
-###Azure app service
 
-![2022-09-25 (3)](https://user-images.githubusercontent.com/108992155/192120485-0c8d48ce-f4b0-45fe-8aec-8dbcfa288568.png)
-###Successful prediction by webapp
 
-![2022-09-25 (4)](https://user-images.githubusercontent.com/108992155/192120545-fd6195eb-b9c7-45fc-98cb-bcbcfd26dcf1.png)
+
+
 ###successful run in pipeline
-
+![2022-09-25 (4)](https://user-images.githubusercontent.com/108992155/192120545-fd6195eb-b9c7-45fc-98cb-bcbcfd26dcf1.png)
 
 
