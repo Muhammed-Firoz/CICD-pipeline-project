@@ -53,7 +53,7 @@ Project Plan
 ### Deploying webapp using azure pipeline into azure app service
 ![2022-09-25 (2)](https://user-images.githubusercontent.com/108992155/192120282-5246a7a0-37f4-4308-9627-3d8dde4b06be.png)
 
-###successful run in pipeline
+### successful run in pipeline
 ![2022-09-25 (4)](https://user-images.githubusercontent.com/108992155/192120545-fd6195eb-b9c7-45fc-98cb-bcbcfd26dcf1.png)
 
 ### Successful prediction from deployed flask app in Azure Cloud Shell.<br>  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
@@ -65,6 +65,7 @@ Port: 443
 {"prediction":[20.35373177134412]}
 ```
 <br>
+
 ### Successful prediction by webapp<br>
 
 ![2022-09-25 (3)](https://user-images.githubusercontent.com/108992155/192120485-0c8d48ce-f4b0-45fe-8aec-8dbcfa288568.png)
