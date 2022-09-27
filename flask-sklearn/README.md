@@ -15,24 +15,24 @@ Project Plan
 
 * Architectural Diagram (Shows how key parts of the system work)>
 ![architecture](https://user-images.githubusercontent.com/108992155/192412566-32f24aa5-55db-4a25-9b5e-18af5d30a1ba.PNG)
-
-1.Clone the Project files to VisualStudio/ Azure cloud CLI.
-2.Create virtual environment.
-3.Go to directory where files are kept.
-4.Run make all.
-5.Deploy the webapp using the command 'az webapp up' and name, runtime=python:3.7.
-6.Check weather deployment occured without error by checking the GUI using URL and running './make_predict_azure.sh' command in CLI.
-7.Run the load test using locust.
-8.Create a service connection in azure devops organisation.
-9.Create an agent pool and an add agent (if you are using a shared azure service).
-10.Create a pipeline in the project.
-11.Select github repository.
-12.Select existing YAML file.
-13.Make changes which are necessary in YAML (like agent pool name, service connection ...).
-14.Add any additional steps you want to add in the build or deployment stage.
-15.Save the pipeline.
-16.Run the Pipeline.
-
+<p>
+1.Clone the Project files to VisualStudio/ Azure cloud CLI.<br>
+2.Create virtual environment.<br>
+3.Go to directory where files are kept.<br>
+4.Run make all.<br>
+5.Deploy the webapp using the c<br>ommand 'az webapp up' and name, runtime=python:3.7.<br>
+6.Check weather deployment occured without error by checking the GUI using URL and running './make_predict_azure.sh' command in CLI.<br>
+7.Run the load test using locust.<br>
+8.Create a service connection in azure devops organisation.<br>
+9.Create an agent pool and an add agent (if you are using a shared azure service).<br>
+10.Create a pipeline in the project.<br>
+11.Select github repository.<br>
+12.Select existing YAML file.<br>
+13.Make changes which are necessary in YAML (like agent pool name, service connection ...).<br>
+14.Add any additional steps you want to add in the build or deployment stage.<br>
+15.Save the pipeline.<br>
+16.Run the Pipeline.<br>
+</p>
 * Project running on Azure App Service
 ###Azure app service
 ![2022-09-25 (1)](https://user-images.githubusercontent.com/108992155/192120328-69260032-849c-41a9-ac45-f3de344ff29f.png)
