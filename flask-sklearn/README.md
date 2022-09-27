@@ -99,5 +99,7 @@ alt="Demo" width="240" height="180" border="10" /></a>
 
 
 
+##Acknowledgements <br>
 
+The images used in the Architectural diagram and in the video thumbnail are obtained from Google images.
 
