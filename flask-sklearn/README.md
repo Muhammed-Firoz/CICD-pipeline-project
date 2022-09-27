@@ -92,8 +92,8 @@ This project can be improved by adding testplans, creating the webapp  more inte
 
 ## Demo 
 <br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/zOwd_eGFmEI
-" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/zOwd_eGFmEI/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zOwd_eGFmEI
+" target="_blank"><img src="http://img.youtube.com/vi/zOwd_eGFmEI/0.jpg" 
 alt="Demo" width="240" height="180" border="10" /></a>
 
 
