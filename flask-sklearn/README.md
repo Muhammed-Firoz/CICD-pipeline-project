@@ -33,17 +33,23 @@ Project Plan
 15.Save the pipeline.<br>
 16.Run the Pipeline.<br>
 </p>
-* Project running on Azure App Service
+
+* Project running on Azure App Service<br>
 ###Azure app service
 ![2022-09-25 (1)](https://user-images.githubusercontent.com/108992155/192120328-69260032-849c-41a9-ac45-f3de344ff29f.png)
 
 * Project cloned into Azure Cloud Shell
+![ss of github clonning](https://user-images.githubusercontent.com/108992155/192417481-8b161de4-43d4-4dae-860f-dbd5b584f74b.PNG)
+
+
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
+![ss of make file passing](https://user-images.githubusercontent.com/108992155/192417515-5f12c1ab-2ff1-4f53-a035-f483f342cff8.PNG)
+
 * Output of a test run
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+* Successful deploy of the project in Azure Pipelines. <br>
 ###Deploying webapp using azure pipeline into azure app service
 ![2022-09-25 (2)](https://user-images.githubusercontent.com/108992155/192120282-5246a7a0-37f4-4308-9627-3d8dde4b06be.png)
 
@@ -57,18 +63,22 @@ udacity@Azure:~$ ./make_predict_azure_app.sh
 Port: 443
 {"prediction":[20.35373177134412]}
 ```
-###Successful prediction by webapp
+<br>
+###Successful prediction by webapp<br>
 ![2022-09-25 (3)](https://user-images.githubusercontent.com/108992155/192120485-0c8d48ce-f4b0-45fe-8aec-8dbcfa288568.png)
+<br>
+<br>
 
+* Output of streamed log files from deployed application<br>
+![2022-09-25](https://user-images.githubusercontent.com/108992155/192417990-1c8441cd-632e-4c6c-adf3-2311a235a90b.png)
+<br>
+<br>
 
-* Output of streamed log files from deployed application
-
-
-###Conducting load test on the deployed app
+###Conducting load test on the deployed app<br>
 ![locust run ss](https://user-images.githubusercontent.com/108992155/192152707-0b8d8392-9385-4efb-bb6a-573fe45c2504.JPG)
 ![locust run ss2](https://user-images.githubusercontent.com/108992155/192152713-6ecc16b3-ced0-4a39-a31d-bdf110b159ac.JPG)
-
-> 
+<br>
+<br>
 ## Enhancements
 
 this project can be improved by adding testplans, creating the webapp  more interactive and settingup custom alert.
@@ -76,13 +86,6 @@ this project can be improved by adding testplans, creating the webapp  more inte
 ## Demo 
 
 <TODO: Add link Screencast on YouTube>
-
-
-## Screenshots
-
-
-
-
 
 
 
