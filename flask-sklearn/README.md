@@ -91,8 +91,10 @@ Port: 443
 This project can be improved by adding testplans, creating the webapp  more interactive and settingup custom alert.
 
 ## Demo 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zOwd_eGFmEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/zOwd_eGFmEI
+" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/zOwd_eGFmEI/0.jpg" 
+alt="Demo" width="240" height="180" border="10" /></a>
 
 
 
