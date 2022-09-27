@@ -52,7 +52,8 @@ Project Plan
 ![ssapp](https://user-images.githubusercontent.com/108992155/192422756-35e3833c-e529-4687-a1b9-f216279b8952.JPG)
 
 ### Deploying webapp using azure pipeline into azure app service
-![2022-09-25 (2)](https://user-images.githubusercontent.com/108992155/192120282-5246a7a0-37f4-4308-9627-3d8dde4b06be.png)
+![deploy webapp pieline](https://user-images.githubusercontent.com/108992155/192425573-b945d6b0-52bc-40e3-9f30-923b47f6f8f2.png)
+
 
 ### successful run in pipeline
 ![succ run pipeline](https://user-images.githubusercontent.com/108992155/192424878-dac7c6dc-3af8-4d9d-9e0f-ffd4822d2789.png)
