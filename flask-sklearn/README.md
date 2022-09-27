@@ -36,7 +36,8 @@ Project Plan
 
 * Project running on Azure App Service<br>
 ### Azure app service
-![2022-09-25 (1)](https://user-images.githubusercontent.com/108992155/192120328-69260032-849c-41a9-ac45-f3de344ff29f.png)
+![azureappderivice](https://user-images.githubusercontent.com/108992155/192424810-46b671e8-1aaa-4483-b6d1-9303c8619a2b.png)
+
 
 #### Project cloned into Azure Cloud Shell
 ![ss of github clonning](https://user-images.githubusercontent.com/108992155/192417481-8b161de4-43d4-4dae-860f-dbd5b584f74b.PNG)
@@ -54,7 +55,8 @@ Project Plan
 ![2022-09-25 (2)](https://user-images.githubusercontent.com/108992155/192120282-5246a7a0-37f4-4308-9627-3d8dde4b06be.png)
 
 ### successful run in pipeline
-![2022-09-25 (4)](https://user-images.githubusercontent.com/108992155/192120545-fd6195eb-b9c7-45fc-98cb-bcbcfd26dcf1.png)
+![succ run pipeline](https://user-images.githubusercontent.com/108992155/192424878-dac7c6dc-3af8-4d9d-9e0f-ffd4822d2789.png)
+
 
 ### Successful prediction from deployed flask app in Azure Cloud Shell.<br>  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
@@ -67,13 +69,14 @@ Port: 443
 <br>
 
 ### Successful prediction by webapp<br>
+![successful pred](https://user-images.githubusercontent.com/108992155/192425023-9b03d303-7627-487a-b635-48a4bfd3460f.png)
 
-![2022-09-25 (3)](https://user-images.githubusercontent.com/108992155/192120485-0c8d48ce-f4b0-45fe-8aec-8dbcfa288568.png)
 <br>
 <br>
 
 ### Output of streamed log files from deployed application<br>
-![2022-09-25](https://user-images.githubusercontent.com/108992155/192417990-1c8441cd-632e-4c6c-adf3-2311a235a90b.png)
+![log streem](https://user-images.githubusercontent.com/108992155/192425093-1ec54c9b-f589-494e-949f-3c10601e676f.png)
+
 <br>
 <br>
 
